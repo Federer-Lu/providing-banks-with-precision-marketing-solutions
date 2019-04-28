@@ -5,7 +5,7 @@ Kesci练习赛 「二分类算法」提供银行精准营销解决方案
 这个项目源自kesci练习赛[提供精准营销解决方案](https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3),我们需要根据葡萄牙某银行机构的
 营销数据（例如：客户的职业、账户余额，与客户交流次数，是否有贷款、违约记录等），预测客户是否购买该银行的产品。
 
-我最终的AUC得分为***0.93974093***，排名第**13**位，详见[排行榜](https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3/leaderboard)。
+我最终的AUC得分为***0.94002148***，排名第**6**位，详见[排行榜](https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3/leaderboard)。
 
 ### 开发环境与所需工具
 * 开发环境：Windows10, anaconda5.3.0, jupyter notebook5.7.2, python3.7
